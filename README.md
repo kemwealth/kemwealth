@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects with other students and programmers.
 - 📫 How to reach me richardgrey2158@gmail.com
 - ⚡ Programming Language:  
-[ HTML5]( https://developer.mozilla.org/en-US/docs/Web/HTML)  
+  [ HTML5]( https://developer.mozilla.org/en-US/docs/Web/HTML)    
   Description: The standard markup language for creating web pages and web applications. It defines the structure and layout of a web page.  
 
   [CSS3]( https://developer.mozilla.org/en-US/docs/Web/CSS)  
@@ -21,8 +21,8 @@
   Description: Node. js is not a programming language; it is a runtime environment allowing you to execute JavaScript code on the server side, outside a web browser.  
 
  - 🚀Programming Tools ➕ Libraries:       
-      [VSCode](https://code.visualstudio.com/)      
-      <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="40"/>    
+      [VSCode](https://code.visualstudio.com/)                      
+       <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="40"/>    
       
       [GITHUB](https://github.com)  
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40"/>        
